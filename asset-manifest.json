@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14879659.chunk.css",
+    "main.js": "/static/js/main.d929e494.chunk.js",
+    "main.js.map": "/static/js/main.d929e494.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa18de02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa18de02.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.8db3b147.chunk.js": "/static/js/2.8db3b147.chunk.js",
+    "static/js/2.8db3b147.chunk.js.map": "/static/js/2.8db3b147.chunk.js.map",
+    "static/js/3.308bc920.chunk.js": "/static/js/3.308bc920.chunk.js",
+    "static/js/3.308bc920.chunk.js.map": "/static/js/3.308bc920.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.14879659.chunk.css.map": "/static/css/main.14879659.chunk.css.map",
+    "static/js/2.8db3b147.chunk.js.LICENSE.txt": "/static/js/2.8db3b147.chunk.js.LICENSE.txt",
+    "static/media/Kyle_Cano.5c7c5d3d.pdf": "/static/media/Kyle_Cano.5c7c5d3d.pdf",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/static/media/avatar.7f806e40.svg",
+    "static/media/education-bg.270bde0f.png": "/static/media/education-bg.270bde0f.png",
+    "static/media/leaf-bg.aeaae280.png": "/static/media/leaf-bg.aeaae280.png",
+    "static/media/style.css": "/static/media/pre.4410c5ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa18de02.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.8db3b147.chunk.js",
+    "static/css/main.14879659.chunk.css",
+    "static/js/main.d929e494.chunk.js"
+  ]
+}
